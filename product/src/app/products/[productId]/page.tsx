@@ -1,4 +1,4 @@
-export default function Home({params }: {
+export default function ProductDtails({params }: {
     params: {productId: string}
 }) {
     return(
